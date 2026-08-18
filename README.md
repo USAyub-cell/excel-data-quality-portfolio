@@ -26,3 +26,4 @@ Assess whether employee master data is sufficiently complete, validated, non-dup
 ## Portfolio note
 
 Project APEX is a professional capstone consulting simulation using synthetic data.
+
